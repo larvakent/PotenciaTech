@@ -1,6 +1,8 @@
+package edu.classes;
+
 import java.util.Scanner;
 
-public class BoletimEstudantil {
+public class BoletimEscolar {
 
     public static void main(String[] args) {
         
