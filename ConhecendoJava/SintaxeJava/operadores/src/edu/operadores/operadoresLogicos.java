@@ -6,7 +6,7 @@ public class operadoresLogicos {
         String a = "Vania";
         String b = new String("Vania");
         
-        System.out.println(a.equals(b));
+        System.out.println(a.equals(b));    
     }
     
 }
