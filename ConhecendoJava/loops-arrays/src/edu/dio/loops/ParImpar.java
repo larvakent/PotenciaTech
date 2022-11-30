@@ -17,11 +17,8 @@ public class ParImpar {
         do {
             System.out.println("Número: ");
             num = leia.nextInt();
-            if(num%2==0){
-                qntdPar++;
-            } else {
-                qntdImpar++;
-            }
+            if(num%2==0) qntdPar++;
+            else qntdImpar++;
             cont++;
         } while(cont < qntdNum);
 
